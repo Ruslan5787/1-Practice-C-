@@ -1,0 +1,3 @@
+﻿  StartChinazes.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+  StartChinazes.vcxproj -> C:\Users\st310-10\Desktop\Abdulazimov PR-31\CPlusPlus\StartChinazes\x64\Debug\StartChinazes.exe
